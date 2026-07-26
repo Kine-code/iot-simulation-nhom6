@@ -9,6 +9,7 @@ This is an educational model, not a bit-accurate implementation of MQTT or CoAP.
 """
 from __future__ import annotations
 
+import utils.session
 import argparse
 import heapq
 import math
